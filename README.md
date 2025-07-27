@@ -2,7 +2,6 @@
 
 > A PyTorch-based experimental clone of DLSS for real-time game frame super-resolution.
 
-
 ## Overview
 
 This project is an implementation of a deep learning-based image super-resolution (SR) model that mimics NVIDIA's DLSS. It is trained on a high-quality gaming dataset to upscale low-resolution rendered frames into high-resolution outputs.
@@ -11,7 +10,8 @@ Inspired by the paper:
 
 - [Efficient Neural Supersampling on a Novel Gaming Dataset (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Mercier_Efficient_Neural_Supersampling_on_a_Novel_Gaming_Dataset_ICCV_2023_paper.pdf)
 
-
+## Example (WIP)
+![example dlss render](./assets/readme1.png)
 
 ## Dataset
 
